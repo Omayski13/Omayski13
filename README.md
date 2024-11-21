@@ -3,19 +3,27 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h3 align="left">About Me</h3>
--📊Currently working as Senior Panel Data Analyst in GFK
--🧑‍💻Currently learning Django course at SoftUni
--🎯My future goal is to work as BackEnd developer
+## About Me
+- 📊 Currently working as **Senior Panel Data Analyst** in **GFK**
+- 🧑‍💻 Currently learning **Django** course at **SoftUni**
+- 🎯 My future goal is to work as **BackEnd developer**
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
   ✨  ...<br>📚 I'm currently learning ...<br> Goals: ...<br>🎲 Fun fact: ...</p>
 
-###
-<h3 align="left">My Finished Courses</h3>
-<p align="left"><a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics
-<p align="left">🏫Marketing and Economics at 23rd SOU 'Frederic Joliot-Curie', Sofia
+
+## My Finished Courses
+- <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics September 2024
+- <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
+- <a href='https://softuni.bg/certificates/details/217144/ed348015'>Python Python PostgreSQL May 2024
+- <a href='https://softuni.bg/certificates/details/212419/7a291787'>JS Front-End February 2024
+- <a href='https://softuni.bg/certificates/details/205358/154f42f2'>HTML & CSS January 2024
+- <a href='https://softuni.bg/certificates/details/196075/456acbc9'>Python OOP October 2023
+- <a href=''>Python Advanced September 2023
+- <a href=''>Python Fundamentals January 2023
+- <a href=''>Python Basics September 2022
+
 ###
 
 <h3 align="left">Education</h3>
