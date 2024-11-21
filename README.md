@@ -1,10 +1,33 @@
-<h1 align="center">Hi 👋, I'm Kristiyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello 👋, I'm Kristiyan</h1>
+<h3 align="center">Student at SoftUni and future backend developer</h3>
+
+###
+
+<h3 align="left">About Me</h3>
+
+<p align="left">📊Currently working as Senior Panel Data Analyst in GFK
+<p align="left">🧑‍💻Currently learning Django course at SoftUni
+<p align="left">🎯My future goal is to work as BackEnd developer
+  
+  ✨  ...<br>📚 I'm currently learning ...<br> Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+<h3 align="left">My Finished Courses</h3>
+<p align="left"><a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics
+<p align="left">🏫Marketing and Economics at 23rd SOU 'Frederic Joliot-Curie', Sofia
+###
+
+<h3 align="left">Education</h3>
+<p align="left">📖Journalism at University of National and World Economy, Sofia
+<p align="left">🏫Marketing and Economics at 23rd SOU 'Frederic Joliot-Curie', Sofia
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kristiyan omayski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omayski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="30" width="40" /></a>
 <a href="https://fb.com/кристиян омайски" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="кристиян омайски" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omayski13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="knomay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
