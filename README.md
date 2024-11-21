@@ -1,13 +1,14 @@
 <h1 align="center">Hello 👋, I'm Kristiyan</h1>
 <h3 align="center">Student at SoftUni and future backend developer</h3>
 
-###
+<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3 align="left">About Me</h3>
+-📊Currently working as Senior Panel Data Analyst in GFK
+-🧑‍💻Currently learning Django course at SoftUni
+-🎯My future goal is to work as BackEnd developer
 
-<p align="left">📊Currently working as Senior Panel Data Analyst in GFK
-<p align="left">🧑‍💻Currently learning Django course at SoftUni
-<p align="left">🎯My future goal is to work as BackEnd developer
+<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
   
   ✨  ...<br>📚 I'm currently learning ...<br> Goals: ...<br>🎲 Fun fact: ...</p>
 
