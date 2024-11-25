@@ -2,7 +2,7 @@
 <h3 align="left">Student at SoftUni and future Back End developer</h3> 
 
 ### About Me 👦
-- 📊 Currently working as **Senior Panel Data Analyst** in **GFK**
+- 📊 Currently working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
 - 🧑‍💻 Currently learning **Django** course at **SoftUni**
 - 🎯 My future goal is to work as **BackEnd developer**
 
