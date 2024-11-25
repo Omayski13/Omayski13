@@ -6,7 +6,7 @@
 - 🧑‍💻 Currently learning **Django** course at **SoftUni**
 - 🎯 My future goal is to work as **BackEnd developer**
 
-## Certificates From my Finished Courses  📄
+##  Finished Courses Certificates 📄
 - <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics September 2024
 - <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
 - <a href='https://softuni.bg/certificates/details/217144/ed348015'>Python Python PostgreSQL May 2024
