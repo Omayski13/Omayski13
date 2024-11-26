@@ -2,11 +2,11 @@
 <h3 align="left">Student at SoftUni and future Back End developer</h3> 
 
 ### About Me 👦
-- 📊 Currently working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
-- 🧑‍💻 Currently learning **Django** course at **SoftUni**
-- 🎯 My future goal is to work as **BackEnd developer**
+- 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
+- 💻 Currently learning **Django** course at **SoftUni**
+- 🎯 My future goal is to work as **Back End developer**
 
-##  Finished Courses Certificates 📄
+##  Finished Courses Certificates 📝
 - <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics September 2024
 - <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
 - <a href='https://softuni.bg/certificates/details/217144/ed348015'>Python Python PostgreSQL May 2024
@@ -18,10 +18,10 @@
 - <a href='https://softuni.bg/certificates/details/144869/d4ac86f1'>Programming Basics September 2022
 
 ### Education 📚
-- 📖**Journalism** at **University of National and World Economy**, Sofia
+- 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
 
-## Fun Facts About Me 🧐
+## Fun Facts About Me ⚡️
 - ️⚽️ **UEFA C International License** for football coach
 - 🏆 **Trainer for generation 2019** at United Football Club Sofia - 1992
 - 🎸 Likes rock and metal music <br>
