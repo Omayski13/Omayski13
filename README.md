@@ -1,10 +1,10 @@
 <h1 align="left">Hello, I'm Kristiyan 👋</h1>
-<h3 align="left">Student at SoftUni and future Back End developer</h3> 
+<h3 align="left">Student at SoftUni and future Back-End developer</h3> 
 
 ### About Me 👦
 - 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
 - 💻 Currently learning **Django** course at **SoftUni**
-- 🎯 My future goal is to work as **Back End developer**
+- 🎯 My future goal is to work as **Back-End developer**
 
 ##  Finished Courses Certificates 📝
 - <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics September 2024
