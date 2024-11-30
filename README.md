@@ -7,9 +7,9 @@
 - 🎯 My future goal is to work as **Back-End developer**
 
 ##  Finished Courses Certificates 📝
-- <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Python Django Basics September 2024
+- <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Django Basics September 2024
 - <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
-- <a href='https://softuni.bg/certificates/details/217144/ed348015'>Python Python PostgreSQL May 2024
+- <a href='https://softuni.bg/certificates/details/217144/ed348015'>PostgreSQL May 2024
 - <a href='https://softuni.bg/certificates/details/212419/7a291787'>JS Front-End February 2024
 - <a href='https://softuni.bg/certificates/details/205358/154f42f2'>HTML & CSS January 2024
 - <a href='https://softuni.bg/certificates/details/196075/456acbc9'>Python OOP October 2023
