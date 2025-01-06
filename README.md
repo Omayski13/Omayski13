@@ -3,7 +3,7 @@
 
 ### About Me 👦
 - 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
-- 💻 Currently learning **Django** course at **SoftUni**
+- 💻 Currently learning **DevOps** course at **SoftUni**
 - 🎯 My future goal is to work as **Python developer**
 
 ##  Finished Courses Certificates 📝
