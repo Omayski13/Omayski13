@@ -53,7 +53,7 @@
   
 <img align="left" alt ="Postman"  width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
 
-<img align="left" alt ="Canva"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="postman" />
+<img align="left" alt ="Canva"  width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" alt="postman" />
   <br>
    </p>  
 
