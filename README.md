@@ -3,7 +3,7 @@
 
 ### About Me 👦
 - 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
-- 💻 Currently learning **DevOps** course at **SoftUni**
+- 👨‍💻 Currently learning **DevOps** course at **SoftUni**
 - 🎯 My future goal is to work as **Python developer**
 
 ##  Finished Courses Certificates 📝
@@ -19,6 +19,7 @@
 - <a href='https://softuni.bg/certificates/details/144869/d4ac86f1'>Programming Basics September 2022
 
 ### Education 📚
+- 💻 [**Python Software Engineer**](https://softuni.bg/certificates/details/234988/6c720d74) at **Software University (SoftUni)**, Sofia
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
 
