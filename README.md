@@ -6,7 +6,7 @@
 - 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
 - 👨‍💻 Currently learning **DevOps** course at **SoftUni**
 - 🎯 My future goal is to work as **Python developer**
-## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg5aGg4cG9vOTkyeTZxc3locHYzZ2xxZzY4ajNnaTE2M242bWZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a53VvGpzUgh05qq7W/giphy.gif" height="35" width="27" style="margin-right: 5px;"> &nbsp; Finished Courses Certificates:
+## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg5aGg4cG9vOTkyeTZxc3locHYzZ2xxZzY4ajNnaTE2M242bWZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a53VvGpzUgh05qq7W/giphy.gif" height="35" width="26" style="margin-right: 5px;"> &nbsp; Finished Courses Certificates:
 
 - [Containers and Cloud](https://softuni.bg/certificates/details/242440/c5759b27) - February 2025
 - [Software Engineering and DevOps](https://softuni.bg/certificates/details/233308/30bfbe04) - January 2025
@@ -22,7 +22,7 @@
 - [Python Fundamentals](https://softuni.bg/certificates/details/166534/fd17850a) - January 2023
 - [Programming Basics](https://softuni.bg/certificates/details/144869/d4ac86f1) - September 2022
 
-## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0d2diYzBtaGV1aTF2M3d0Y3ludG0ycHU2eHk4NHB3bHdqamE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif" width="15" style="margin-right: 5px;"> &nbsp; Education:
+## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0d2diYzBtaGV1aTF2M3d0Y3ludG0ycHU2eHk4NHB3bHdqamE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif" width="18" style="margin-right: 5px;"> &nbsp; Education:
 - 💻 [**Python Software Engineer**](https://softuni.bg/certificates/details/234988/6c720d74) at **Software University (SoftUni)**, Sofia
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
