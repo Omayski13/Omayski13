@@ -7,6 +7,8 @@
 - 🎯 My future goal is to work as **Python developer**
 
 ##  Finished Courses Certificates 📝
+- <a href='https://softuni.bg/certificates/details/242440/c5759b27'>Containers and Cloud February 2025
+- <a href='https://softuni.bg/certificates/details/233308/30bfbe04'>Software Engineering and DevOps January 2025
 - <a href='https://softuni.bg/certificates/details/233308/30bfbe04'>Django Advanced October 2024
 - <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Django Basics September 2024
 - <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
