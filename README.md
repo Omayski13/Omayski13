@@ -6,7 +6,7 @@
 - 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
 - 👨‍💻 Currently learning **DevOps** course at **SoftUni**
 - 🎯 My future goal is to work as **Python developer**
-## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg5aGg4cG9vOTkyeTZxc3locHYzZ2xxZzY4ajNnaTE2M242bWZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a53VvGpzUgh05qq7W/giphy.gif" height="35" width="26" style="margin-right: 5px;"> &nbsp; Finished Courses Certificates:
+## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg5aGg4cG9vOTkyeTZxc3locHYzZ2xxZzY4ajNnaTE2M242bWZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a53VvGpzUgh05qq7W/giphy.gif" height="35" width="25" style="margin-right: 5px;"> &nbsp; Finished Courses Certificates:
 
 - [Containers and Cloud](https://softuni.bg/certificates/details/242440/c5759b27) - February 2025
 - [Software Engineering and DevOps](https://softuni.bg/certificates/details/233308/30bfbe04) - January 2025
@@ -27,13 +27,13 @@
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
 - 
-## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFybXVldmxpajVyejV4ZXd6azFuYTl4d2dxamVjeW9waWNjdTF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XPwTDzq09aYoEQ14GE/giphy.gif" width="30" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
+## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFybXVldmxpajVyejV4ZXd6azFuYTl4d2dxamVjeW9waWNjdTF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XPwTDzq09aYoEQ14GE/giphy.gif" width="33" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
 
 - ️⚽️ **UEFA C International License** for football coach
 - 🏆 **Trainer for generation 2019** at United Football Club Sofia - 1992
 - 🎸 Likes rock and metal music <br>
 
-## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Connect with Me:
+## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="27" style="margin-right: 5px;"> &nbsp; Connect with Me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omayski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="30" width="40" /></a>
