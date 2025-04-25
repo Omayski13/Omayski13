@@ -29,7 +29,7 @@
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
 - 
-## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFybXVldmxpajVyejV4ZXd6azFuYTl4d2dxamVjeW9waWNjdTF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XPwTDzq09aYoEQ14GE/giphy.gif" width="33" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
+## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ1ZXM5NWFva3htbW1yOXM4bW96bXJvMGdpMGQwenNwdXFxbHVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VoiZDdsyeqEBBj1pmn/giphy.gif" width="35" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
 
 - ️⚽️ **UEFA C International License** for football coach
 - 🏆 **Trainer for generation 2019** at United Football Club Sofia - 1992
