@@ -22,7 +22,7 @@
 - [Programming Basics](https://softuni.bg/certificates/details/144869/d4ac86f1) - September 2022
 
 
-### Education 📚
+## Education 📚
 - 💻 [**Python Software Engineer**](https://softuni.bg/certificates/details/234988/6c720d74) at **Software University (SoftUni)**, Sofia
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
@@ -43,22 +43,29 @@
 ## <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
 
 <img align="left" alt="Python" width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
-<img align="left" alt ="Django"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
-<img align="left" alt ="PyCharm"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
-  
 <img align="left" alt ="JavaScript"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt ="Django"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
+
+<img align="left" alt ="PostgresSQL"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" alt ="Docker"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" />
+
+<img align="left" alt ="Jenkins"  width="35" height="35" src="https://www.svgrepo.com/show/353929/jenkins.svg" />
+
+<img align="left" alt ="Git"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt ="GitHub"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+
+<img align="left" alt ="Terraform"  width="35" height="35" src="https://www.svgrepo.com/show/448253/terraform.svg" />
+
+<img align="left" alt ="PyCharm"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
+<img align="left" alt ="VisualStudioCode"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 <img align="left" alt ="HTML5"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt ="CCS"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt ="VisualStudioCode"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  
-<img align="left" alt ="PostgresSQL"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
-  
-<img align="left" alt ="Git"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt ="GitHub"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
-  
+
 <img align="left" alt ="Postman"  width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
 
-<img align="left" alt ="Canva"  width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" alt="postman" />
+<img align="left" alt ="Canva"  width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" />
   <br>
    </p>  
 
