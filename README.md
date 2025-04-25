@@ -17,7 +17,6 @@
 - [PostgreSQL](https://softuni.bg/certificates/details/217144/ed348015) - May 2024
 - [JS Front-End](https://softuni.bg/certificates/details/212419/7a291787) - February 2024
 - [HTML & CSS](https://softuni.bg/certificates/details/205358/154f42f2) - January 2024
-- 
 - [Python OOP](https://softuni.bg/certificates/details/196075/456acbc9) - October 2023
 - [Python Advanced](https://softuni.bg/certificates/details/190376/1e78465c) - September 2023
 - [Python Fundamentals](https://softuni.bg/certificates/details/166534/fd17850a) - January 2023
