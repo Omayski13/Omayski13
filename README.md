@@ -21,16 +21,6 @@
 - [Python Fundamentals](https://softuni.bg/certificates/details/166534/fd17850a) - January 2023
 - [Programming Basics](https://softuni.bg/certificates/details/144869/d4ac86f1) - September 2022
 
-- <a href='https://softuni.bg/certificates/details/233308/30bfbe04'>Django Advanced October 2024
-- <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Django Basics September 2024
-- <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
-- <a href='https://softuni.bg/certificates/details/217144/ed348015'>PostgreSQL May 2024
-- <a href='https://softuni.bg/certificates/details/212419/7a291787'>JS Front-End February 2024
-- <a href='https://softuni.bg/certificates/details/205358/154f42f2'>HTML & CSS January 2024
-- <a href='https://softuni.bg/certificates/details/196075/456acbc9'>Python OOP October 2023
-- <a href='https://softuni.bg/certificates/details/190376/1e78465c'>Python Advanced September 2023
-- <a href='https://softuni.bg/certificates/details/166534/fd17850a'>Python Fundamentals January 2023
-- <a href='https://softuni.bg/certificates/details/144869/d4ac86f1'>Programming Basics September 2022
 
 ### Education 📚
 - 💻 [**Python Software Engineer**](https://softuni.bg/certificates/details/234988/6c720d74) at **Software University (SoftUni)**, Sofia
