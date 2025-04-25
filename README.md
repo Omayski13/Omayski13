@@ -7,8 +7,20 @@
 - 🎯 My future goal is to work as **Python developer**
 
 ##  Finished Courses Certificates 📝
-- <a href='https://softuni.bg/certificates/details/242440/c5759b27'>Containers and Cloud February 2025
-- <a href='https://softuni.bg/certificates/details/233308/30bfbe04'>Software Engineering and DevOps January 2025
+
+- [Containers and Cloud](https://softuni.bg/certificates/details/242440/c5759b27) - February 2025
+- [Software Engineering and DevOps](https://softuni.bg/certificates/details/233308/30bfbe04) - January 2025
+- [Django Advanced](https://softuni.bg/certificates/details/233308/30bfbe04) - October 2024
+- [Django Basics](https://softuni.bg/certificates/details/229717/e9c7d8a2) - September 2024
+- [Python ORM](https://softuni.bg/certificates/details/221506/822f2115) - June 2024
+- [PostgreSQL](https://softuni.bg/certificates/details/217144/ed348015) - May 2024
+- [JS Front-End](https://softuni.bg/certificates/details/212419/7a291787) - February 2024
+- [HTML & CSS](https://softuni.bg/certificates/details/205358/154f42f2) - January 2024
+- [Python OOP](https://softuni.bg/certificates/details/196075/456acbc9) - October 2023
+- [Python Advanced](https://softuni.bg/certificates/details/190376/1e78465c) - September 2023
+- [Python Fundamentals](https://softuni.bg/certificates/details/166534/fd17850a) - January 2023
+- [Programming Basics](https://softuni.bg/certificates/details/144869/d4ac86f1) - September 2022
+
 - <a href='https://softuni.bg/certificates/details/233308/30bfbe04'>Django Advanced October 2024
 - <a href='https://softuni.bg/certificates/details/229717/e9c7d8a2'>Django Basics September 2024
 - <a href='https://softuni.bg/certificates/details/221506/822f2115'>Python ORM June 2024
