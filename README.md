@@ -1,7 +1,7 @@
 <h1 align="left">Hello, I'm Kristiyan <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNuOXloaDN6ajBveGJhaW0xcjF2ajhwb3cyc3FkdDRpdjJra20wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif"  width="35" style="margin-right: 5px;"></h1>
 <h3 align="left">Student at SoftUni and future Python developer</h3> 
 
-## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3cmJwZjN0cm1mbTBxbGllcWM5MGYyNHBrcGdmNnNieDUxMXZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWgyzVrLshFkP7O/giphy.gif" width="33" style="margin-right: 5px;"> &nbsp; About Me:
+## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3cmJwZjN0cm1mbTBxbGllcWM5MGYyNHBrcGdmNnNieDUxMXZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWgyzVrLshFkP7O/giphy.gif" height="37" width="45" style="margin-right: 5px;"> &nbsp; About Me:
 
 - 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
 - 👨‍💻 Currently learning **DevOps** course at **SoftUni**
