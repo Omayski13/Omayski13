@@ -15,23 +15,24 @@
 - [PostgreSQL](https://softuni.bg/certificates/details/217144/ed348015) - May 2024
 - [JS Front-End](https://softuni.bg/certificates/details/212419/7a291787) - February 2024
 - [HTML & CSS](https://softuni.bg/certificates/details/205358/154f42f2) - January 2024
+- 
 - [Python OOP](https://softuni.bg/certificates/details/196075/456acbc9) - October 2023
 - [Python Advanced](https://softuni.bg/certificates/details/190376/1e78465c) - September 2023
 - [Python Fundamentals](https://softuni.bg/certificates/details/166534/fd17850a) - January 2023
 - [Programming Basics](https://softuni.bg/certificates/details/144869/d4ac86f1) - September 2022
 
-## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0d2diYzBtaGV1aTF2M3d0Y3ludG0ycHU2eHk4NHB3bHdqamE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif" width="35" style="margin-right: 5px;"> &nbsp; Education:
+## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc0d2diYzBtaGV1aTF2M3d0Y3ludG0ycHU2eHk4NHB3bHdqamE2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RpUbhWwuoiCA5q0Gkv/giphy.gif" width="15" style="margin-right: 5px;"> &nbsp; Education:
 - 💻 [**Python Software Engineer**](https://softuni.bg/certificates/details/234988/6c720d74) at **Software University (SoftUni)**, Sofia
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
 - 
-## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFybXVldmxpajVyejV4ZXd6azFuYTl4d2dxamVjeW9waWNjdTF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XPwTDzq09aYoEQ14GE/giphy.gif" width="35" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
+## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFybXVldmxpajVyejV4ZXd6azFuYTl4d2dxamVjeW9waWNjdTF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XPwTDzq09aYoEQ14GE/giphy.gif" width="30" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
 
 - ️⚽️ **UEFA C International License** for football coach
 - 🏆 **Trainer for generation 2019** at United Football Club Sofia - 1992
 - 🎸 Likes rock and metal music <br>
 
-## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="35" style="margin-right: 5px;"> &nbsp; Connect with Me:
+## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Connect with Me:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omayski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="30" width="40" /></a>
