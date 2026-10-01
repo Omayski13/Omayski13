@@ -3,7 +3,7 @@
 
 ## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3cmJwZjN0cm1mbTBxbGllcWM5MGYyNHBrcGdmNnNieDUxMXZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWgyzVrLshFkP7O/giphy.gif" height="33" width="45" style="margin-right: 5px;"> &nbsp; About Me:
 
-- 📊 Working as **Senior Panel Data Analyst** in **GFK an NIQ Company**
+- 📊 Working as **Data Analyst** in **GFK an NIQ Company**
 - 👨‍💻 Currently learning **DevOps** course at **SoftUni**
 - 🎯 My future goal is to work as **Python developer**
   
@@ -31,8 +31,8 @@
 ## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ1ZXM5NWFva3htbW1yOXM4bW96bXJvMGdpMGQwenNwdXFxbHVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VoiZDdsyeqEBBj1pmn/giphy.gif" width="33" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
 
 - ️⚽️ **UEFA C International License** for football coach
-- 🏆 **Trainer for generation 2019** at United Football Club Sofia - 1992
-- 🎸 Likes rock and metal music <br>
+- 🏆 **Coach for kids born 2019** at United Football Club Sofia - 1992
+- 🎸 Likes rock music and learning to play guitar <br>
 
 ## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="30" style="margin-right: 5px;"> &nbsp; Connect with Me:
 
@@ -45,6 +45,7 @@
 ## <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools I know:
 
 <img align="left" alt="Python" width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
+<img align="left" alt="R" width="35" height="35" src="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:R_logo.svg" />
 <img align="left" alt ="JavaScript"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt ="Django"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
 
@@ -58,6 +59,8 @@
 <img align="left" alt ="GitHub"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 
 <img align="left" alt ="Terraform"  width="35" height="35" src="https://www.svgrepo.com/show/448253/terraform.svg" />
+
+<img align="left" alt ="AWS"  width="35" height="35" src="https://images.seeklogo.com/logo-png/27/1/aws-amazon-web-services-logo-png_seeklogo-272842.png" />
 
 <img align="left" alt ="PyCharm"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
 <img align="left" alt ="VisualStudioCode"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
