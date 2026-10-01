@@ -37,8 +37,7 @@
 ## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="30" style="margin-right: 5px;"> &nbsp; Connect with Me:
 
 -🌐 [**My personal website**](https://kristiyan-omayski.onrender.com/)
-- 
--<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="15" width="15" />  [**LinkedIn Profile**](https://www.linkedin.com/in/omayski/)
+-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="25" width="30" />  [**LinkedIn Profile**](https://www.linkedin.com/in/omayski/)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omayski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="30" width="40" /></a>
