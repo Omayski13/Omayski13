@@ -1,11 +1,11 @@
 <h1 align="left">Hello, I'm Kristiyan <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNuOXloaDN6ajBveGJhaW0xcjF2ajhwb3cyc3FkdDRpdjJra20wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif"  width="35" style="margin-right: 5px;"></h1>
 <h3 align="left">Data Analyst and Python graduate student</h3> 
-<h3 align="left">Data Analyst | Python & Data Enthusiast</h3> 
 
 ## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3cmJwZjN0cm1mbTBxbGllcWM5MGYyNHBrcGdmNnNieDUxMXZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWgyzVrLshFkP7O/giphy.gif" height="33" width="45" style="margin-right: 5px;"> &nbsp; About Me:
 
 - 📊 Working as **Data Analyst** in **GFK an NIQ Company**
 - 👨‍💻 Passionate about Data manipulation using **Python** and **R**
+- 
   
 ## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg5aGg4cG9vOTkyeTZxc3locHYzZ2xxZzY4ajNnaTE2M242bWZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a53VvGpzUgh05qq7W/giphy.gif" height="30" width="25" style="margin-right: 5px;"> &nbsp; Finished Courses Certificates:
 
@@ -35,6 +35,8 @@
 - 🎸 Likes rock music and learning to play guitar <br>
 
 ## <img align="left" alt="html tag image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0N2ZiOG44ZnNnanJubmJ3YzRjb3AxajZhaGxyMjFkcXpsZXdneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7YgtVYVb0vzjZRWFpx/giphy.gif" width="30" style="margin-right: 5px;"> &nbsp; Connect with Me:
+
+- [**My personal website**](https://kristiyan-omayski.onrender.com/)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/omayski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kristiyan omayski" height="30" width="40" /></a>
