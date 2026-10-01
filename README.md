@@ -1,11 +1,11 @@
 <h1 align="left">Hello, I'm Kristiyan <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNuOXloaDN6ajBveGJhaW0xcjF2ajhwb3cyc3FkdDRpdjJra20wcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKkqqRlfzajljKVV5p/giphy.gif"  width="35" style="margin-right: 5px;"></h1>
-<h3 align="left">Student at SoftUni and future Python developer</h3> 
+<h3 align="left">Data Analyst and Python graduate student</h3> 
+<h3 align="left">Data Analyst | Python & Data Enthusiast</h3> 
 
 ## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3cmJwZjN0cm1mbTBxbGllcWM5MGYyNHBrcGdmNnNieDUxMXZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWgyzVrLshFkP7O/giphy.gif" height="33" width="45" style="margin-right: 5px;"> &nbsp; About Me:
 
 - 📊 Working as **Data Analyst** in **GFK an NIQ Company**
-- 👨‍💻 Currently learning **DevOps** course at **SoftUni**
-- 🎯 My future goal is to work as **Python developer**
+- 👨‍💻 Passionate about Data manipulation using **Python** and **R**
   
 ## <img align="left" alt="html tag image" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg5aGg4cG9vOTkyeTZxc3locHYzZ2xxZzY4ajNnaTE2M242bWZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3a53VvGpzUgh05qq7W/giphy.gif" height="30" width="25" style="margin-right: 5px;"> &nbsp; Finished Courses Certificates:
 
@@ -27,7 +27,7 @@
 - 💻 [**Python Software Engineer**](https://softuni.bg/certificates/details/234988/6c720d74) at **Software University (SoftUni)**, Sofia
 - 👨‍🎓**Journalism** at **University of National and World Economy**, Sofia
 - 🏫**Marketing and Economics** at 23rd SOU 'Frederic Joliot-Curie', Sofia
-- 
+
 ## <img align="left" alt="html tag image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ1ZXM5NWFva3htbW1yOXM4bW96bXJvMGdpMGQwenNwdXFxbHVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VoiZDdsyeqEBBj1pmn/giphy.gif" width="33" style="margin-right: 5px;"> &nbsp; Fun Facts About Me:
 
 - ️⚽️ **UEFA C International License** for football coach
@@ -55,6 +55,9 @@
 
 <img align="left" alt ="PostgresSQL"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
 
+<img align="left" alt ="AWS"  width="35" height="35" src="https://devicons.io/devicons/icons/aws.svg" />
+<img align="left" alt ="Azure"  width="35" height="35" src="https://devicons.io/devicons/icons/microsoft-azure.svg" />
+
 <img align="left" alt ="Docker"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" />
 
 <img align="left" alt ="Jenkins"  width="35" height="35" src="https://www.svgrepo.com/show/353929/jenkins.svg" />
@@ -64,18 +67,15 @@
 
 <img align="left" alt ="Terraform"  width="35" height="35" src="https://www.svgrepo.com/show/448253/terraform.svg" />
 
-<img align="left" alt ="AWS"  width="35" height="35" src="https://devicons.io/devicons/icons/aws.svg" />
-<img align="left" alt ="Azure"  width="35" height="35" src="https://devicons.io/devicons/icons/microsoft-azure.svg" />
-
 <img align="left" alt ="PyCharm"  width="35" height="35" src="https://devicons.io/devicons/icons/pycharm.svg" />
 <img align="left" alt ="VisualStudioCode"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt ="HTML5"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt ="CCS"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="left" alt ="Postman"  width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
+<!-- <img align="left" alt ="Postman"  width="35" height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
 
-<img align="left" alt ="Canva"  width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" />
+<img align="left" alt ="Canva"  width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" /> -->
   <br>
    </p>  
 
