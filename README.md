@@ -46,7 +46,12 @@
 
 <img align="left" alt="Python" width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" />
 <img align="left" alt="R" width="35" height="35" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" />
+<img align="left" alt="R" width="35" height="35" src="https://bg.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:R_logo.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:R_logo.svg" />
 <img align="left" alt ="JavaScript"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt ="Pandas"  width="35" height="35" src="https://commons.wikimedia.org/wiki/File:Pandas_logo.svg#/media/File:Pandas_logo.svg" />
+<img align="left" alt ="Jupyter"  width="35" height="35" src= "https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg#/media/File:Jupyter_logo.svg"/>
+
 <img align="left" alt ="Django"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" />
 
 <img align="left" alt ="PostgresSQL"  width="35" height="35" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" />
@@ -62,7 +67,7 @@
 
 <img align="left" alt ="AWS"  width="35" height="35" src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg#/media/File:Amazon_Web_Services_Logo.svg" />
 
-<img align="left" alt ="PyCharm"  width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
+<img align="left" alt ="PyCharm"  width="35" height="35" src="https://commons.wikimedia.org/wiki/File:PyCharm_Icon.svg#/media/File:PyCharm_Icon.svg" />
 <img align="left" alt ="VisualStudioCode"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt ="HTML5"  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
